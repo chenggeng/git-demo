@@ -1,5 +1,6 @@
 *{margin: 0;padding: 0;}
-#wrap{position: relative;background: #ccc;}
-#git{width: 500px;position: absolute;left: 0;right: 0;top: 0;bottom: 0;margin: auto;border: 1px solid yellow;}
+#wrap{position: relative;}
+#git{width: 600px;background: #999;position: relative;left: 0;right: 0;top: 0;bottom: 0;margin: auto;border: 1px solid yellow;}
 #git p{height: 50px;line-height: 50px;font-size: 30px;text-align:center;background: pink;font-weight: bolder;}
 #git .master p{height: 30px;line-height:30px;font-size:16px;margin-top: 40px;background: green;}
+#git .master p.pScare{font-size: 20px;color: yellowgreen;background: red;}
